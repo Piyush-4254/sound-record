@@ -1,0 +1,34 @@
+body{
+    font-family: 'Silkscreen', cursive;
+    background-color: lightgreen;
+}
+.header_div{
+   background-color: aqua; 
+   color: rgba(rgb(0, 7, 111));
+   text-align: center;
+}
+.header_div p{
+    font-family: 'Coming Soon', cursive;
+    color: rgb(221, 255, 0);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+}
+.main_div button{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+margin-top: 30px;
+width: 130px;
+font-weight: bolder;
+letter-spacing: 3px;
+}
+.footer_div{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    color: darkblue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(0, 98, 255);
+}
